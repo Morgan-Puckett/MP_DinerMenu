@@ -1,4 +1,10 @@
-﻿Public Class MP_DinerMenu
+﻿'Morgan Puckett
+'RCET0265
+'Spring 2022
+'Diner Menu Program
+'https://github.com/Morgan-Puckett/MP_DinerMenu
+
+Public Class MP_DinerMenu
     Private Sub FishButton_Click(sender As Object, e As EventArgs) Handles FishButton.Click
         DinerSpecialtyLabel.Text = "~ Fish ~ 
 Tonight's Fish Special is a one pan lemon garlic salmon with 
